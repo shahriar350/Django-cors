@@ -1,4 +1,3 @@
-`
 <p class="has-line-data" data-line-start="0" data-line-end="4">CORS_ALLOW_CREDENTIALS = True<br>
 CORS_ALLOWED_ORIGINS = [<br>
 &quot;<a href="http://localhost:3000">http://localhost:3000</a>&quot;,<br>
@@ -19,4 +18,3 @@ CORS_ALLOW_HEADERS = (<br>
 “x-requested-with”,<br>
 “x-domain”,<br>
 )</p>
-`
